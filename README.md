@@ -49,3 +49,16 @@ Air Canvas is an AI-based virtual drawing tool that lets users draw on screen by
    ```bash
    git clone https://github.com/yourusername/air-canvas.git
    cd air-canvas
+ ##  🧠 Future Improvements
+-Save drawings as image files
+
+-Add more gestures (e.g., eraser, brush size control)
+
+-Multi-hand support
+
+-Voice commands integration
+
+## ✨ Author
+Developed by P B KUMAR 
+
+
